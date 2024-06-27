@@ -1,0 +1,27 @@
+Quiz Time Overview
+This project is a basic quiz application built with HTML, CSS, and JavaScript. The application presents a set of multiple-choice questions to the user, provides feedback on their answers, and allows them to retake the quiz.
+
+Project Structure
+basic-js-quiz/
+-index.html
+-style.css
+-script.js
+
+To run this project, you need a web browser and a code editor (optional) for editing the files.
+
+Usage
+Open the Quiz:
+Open the index.html file in a web browser to start the quiz.
+
+Answer the Questions:
+Select an answer for each question.
+
+Submit Answers:
+Click the "Submit Answers" button to see your results.
+
+View Results:
+The quiz will display your score and highlight correct and incorrect answers.
+
+Retake Quiz:
+Click the "Retake Quiz" button to reset the quiz and try again.
+
